@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * ClassName:StudentController
  * Date:     2017年11月6日 下午4:27:40
- * @author   Joe
- * @version
+ * @author   Shaun
+ * @version  1.0
  * @since    JDK 1.8
  */
 @Controller
